@@ -1,0 +1,5 @@
+{
+  "name": "AI Color Picker",
+  "description": "An offline-first, in-browser color picker tool. Upload an image, pan and zoom, and pick colors from any pixel or area. Features a live magnifier, dominant color extraction, and palette history, all powered by local processing with no server-side APIs required.",
+  "requestFramePermissions": []
+}
